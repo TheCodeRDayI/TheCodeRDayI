@@ -11,9 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/TheCodeRDayI" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://discord.gg/D4YI#7323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="D4YI#7323" height="45" width="45" /></a>
 <a href="mailto:thecoderdayi@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/clouds/344/gmail-new.png" alt="thecoderdayi" height="45" width="45" /></a>
 <a href="https://twitter.com/coderdayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderdayi" height="30" width="40" /></a>
@@ -24,7 +21,7 @@
 
 <h3 align="left">Now Spotify Listening:</h3>
 <p align="center">
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=anms14ef83ah6lcaxw2j8xts7&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=anms14ef83ah6lcaxw2j8xts7&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)]]
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=anms14ef83ah6lcaxw2j8xts7&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=anms14ef83ah6lcaxw2j8xts7&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)"/>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecoderdayi" alt="thecoderdayi" /></a> </p>
