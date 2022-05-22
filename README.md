@@ -11,12 +11,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <p align="left">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="D4YI#7323" height="45" width="45" />    
+D4YI#7323
+ </p>
+ 
   <p align="left">
-    D4YI#7323
-<a href="https://discord.gg/?username=D4YI#7323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="D4YI#7323" height="45" width="45" /></a>
-    </p>
-<a href="mailto:thecoderdayi@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/clouds/344/gmail-new.png" alt="thecoderdayi" height="45" width="45" /></a>
-<a href="https://twitter.com/coderdayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderdayi" height="30" width="40" /></a>
+<img align="center" src="https://img.icons8.com/clouds/344/gmail-new.png" alt="thecoderdayi@gmail.com" height="45" width="45" />    
+thecoderdayi@gmail.com
+ </p>
+ 
+  <p align="left">
+<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" alt="coderdayi" height="45" width="45" />    
+coderdayi
+ </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
