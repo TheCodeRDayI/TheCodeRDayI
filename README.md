@@ -22,7 +22,7 @@ thecoderdayi@gmail.com
  </p>
  
   <p align="left">
-<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" alt="coderdayi" height="45" width="45" />    
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderdayi" height="45" width="45" />    
 coderdayi
  </p>
 </p>
