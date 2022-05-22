@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TheCodeRDayI</h1>
 <h3 align="center">Freelancer software developer</h3>
 
-<p align="center"><img src="img/typing.gif" alt="typing"/></p>
+<p align="center"><img src="img/giphy.gif" alt="typing"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoderdayi&label=Profile%20views&color=0e75b6&style=flat" alt="thecoderdayi" /> </p>
 
