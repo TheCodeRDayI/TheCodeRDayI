@@ -3,7 +3,10 @@
 
 <p align="center"><img src="img/typing.gif" alt="typing"/></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoderdayi&label=Profile%20views&color=0e75b6&style=flat" alt="thecoderdayi" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thecoderdayi&label=Profile%20views&color=0e75b6&style=flat" alt="thecoderdayi" />
+  <img src="https://img.shields.io/github/followers/TheCodeRDayI?label=follow&style=social" alt="thecoderdayi" />
+</p>
 
 <p align="left">
   <a href="https://twitter.com/coderdayi" target="blank"><img src="https://img.shields.io/twitter/follow/coderdayi?logo=twitter&style=for-the-badge" alt="coderdayi" /></a> 
