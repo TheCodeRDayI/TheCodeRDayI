@@ -36,11 +36,6 @@ coderdayi
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="100" height="100"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="100" height="100"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="100" height="100"/> </a> 
 </p>
 
-><h3 align="left">Now Spotify Listening:</h3>
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=anms14ef83ah6lcaxw2j8xts7&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=anms14ef83ah6lcaxw2j8xts7&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)"/>
-</p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecoderdayi" alt="thecoderdayi" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecoderdayi&show_icons=true&locale=en&layout=compact" alt="thecoderdayi" /></p>
